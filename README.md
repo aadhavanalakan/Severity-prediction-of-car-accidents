@@ -7,7 +7,7 @@ The first goal is to find out the factors that affect the severity. The second g
 
 The data has a wide range of applications; it can predict patterns in accidents, study accident locations and direct them to hospital locations. It can be used to make important policy decisions to reduce the number of accident severity. This data can also compare accidents caused by human driving patterns and accidents caused by self-driving cars.
 
-# b)	Source of data set.
+# b)	Source of data set:
 •	https://www.kaggle.com/sobhanmoosavi/us-accidents\
 
 •	Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
